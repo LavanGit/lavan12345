@@ -13,3 +13,4 @@ ssh -i /var/lib/jenkins/dev.pem ec2-user@172.31.43.90 chmod +x /tmp/deploy.sh
 
 ssh -i /var/lib/jenkins/dev.pem ec2-user@172.31.43.90 /tmp/deploy.sh $docker_app
 lavan kumar
+love is like a fish
