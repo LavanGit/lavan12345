@@ -34,8 +34,11 @@ pipeline {
         }
     }
 }
+sm ,f,mnbsf,mnksfdjkjhf
+sfnkn
 
 def getDockerTag(){
     def tag  = sh script: 'git rev-parse HEAD', returnStdout: true
-    return tag
-}
+    return
+    ajnjx
+    gaxhga

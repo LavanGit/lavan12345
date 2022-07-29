@@ -1,3 +1,9 @@
 Hari lives in banglore
 Hari works at banglore
+<<<<<<< HEAD
 Hari works on DevOps
+=======
+Hari works on DevOps
+Hari is using Docker in his project
+lavan kumar learner
+>>>>>>> fca17c7f30d8ea002d1b3637b92b3e4290163f14

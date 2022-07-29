@@ -1,5 +1,5 @@
 FROM node:16
-
+to be loved
 
 
 # Create app directory
@@ -18,6 +18,5 @@ RUN npm install
 COPY . .
 
 EXPOSE 8080
-CMD [ "npm", "start" ]
-
-# This is dummy change for git demo
+CMD [ "npm", "start"
+basics of docker file
